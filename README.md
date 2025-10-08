@@ -2,9 +2,9 @@
 
 ---
 
-## Me chamo Álvaro Rodrigo 
+  ## Me chamo Álvaro Rodrigo 
 
-Apaixonado por Desenvolvimento, Inovação e Tecnologia.  
+Apaixonado por tecnologia desde sempre — adoro criar, aprender e enfrentar novos desafios no desenvolvimento Full Stack.
 
 📫 Onde me encontrar:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/álvaro-rodrigo-b6593b24b)
