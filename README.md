@@ -4,7 +4,8 @@
 
 ## Me chamo Álvaro Rodrigo  
 
-💻 Apaixonado por tecnologia desde criança — adoro criar, aprender e enfrentar novos desafios no desenvolvimento Full Stack.  
+> 💻 Apaixonado por tecnologia desde criança — adoro criar, aprender e enfrentar novos desafios no desenvolvimento Full Stack.
+ 
 
 📫 Onde me encontrar:  
 <a href="https://www.linkedin.com/in/álvaro-rodrigo-b6593b24b">
