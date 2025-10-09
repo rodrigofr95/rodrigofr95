@@ -46,8 +46,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofr95&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofr95&layout=compact&theme=tokyonight)
 
 ---
 
