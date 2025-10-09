@@ -41,7 +41,7 @@
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-1F75FE?style=for-the-badge&logo=dev-dot-to&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 📊 Most Used Languages
