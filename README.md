@@ -11,8 +11,7 @@
 <a href="https://www.linkedin.com/in/álvaro-rodrigo-b6593b24b">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigofr95&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofr95&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
